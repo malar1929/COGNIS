@@ -1,0 +1,31 @@
+
+CANDIDATE: Michael Chen
+EMAIL: michael.c@email.com
+PHONE: +1-555-0456
+
+EXPERIENCE:
+Lead Data Scientist | AI Innovations Inc. | 2021-2024
+- Developed predictive models improving accuracy by 35%
+- Managed team of 8 data scientists and engineers
+- Implemented MLOps pipeline reducing model deployment time by 70%
+- Increased revenue by $2.5M through customer churn prediction
+
+Data Scientist | DataViz Analytics | 2019-2021
+- Created dashboards for 500+ enterprise clients
+- Reduced data processing time by 50% using Spark
+- Built recommendation engine serving 10K+ users daily
+
+EDUCATION:
+Ph.D. Data Science | UC Berkeley | 2021
+M.S. Statistics | Stanford University | 2019
+
+SKILLS:
+Python, R, SQL, Tableau, Spark, Hadoop, TensorFlow, PyTorch, Machine Learning, Deep Learning, Statistics, Data Visualization, Big Data
+
+CERTIFICATIONS:
+Certified Data Scientist (CDS)
+Google Professional Machine Learning Engineer
+
+ACHIEVEMENTS:
+- Best Research Paper Award 2022
+- 5 patents in machine learning

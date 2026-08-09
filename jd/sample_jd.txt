@@ -1,0 +1,41 @@
+
+JOB TITLE: Senior Software Engineer
+DEPARTMENT: Engineering
+COMPANY: TechCorp Inc.
+
+JOB DESCRIPTION:
+We are seeking an experienced Senior Software Engineer to join our growing engineering team. The ideal candidate will have strong backend development experience with expertise in microservices architecture and cloud technologies.
+
+KEY RESPONSIBILITIES:
+- Design and develop scalable microservices architecture
+- Build and maintain RESTful APIs
+- Optimize system performance and reliability
+- Mentor and guide junior developers
+- Implement CI/CD pipelines
+- Collaborate with cross-functional teams on product development
+
+REQUIRED SKILLS:
+- Python (5+ years)
+- Java (3+ years)
+- Microservices Architecture
+- Docker and Kubernetes
+- AWS or Azure Cloud
+- PostgreSQL or MongoDB
+- CI/CD Practices
+- System Design and Architecture
+- Leadership and Mentoring
+- Agile Methodologies
+
+PREFERRED SKILLS:
+- Redis
+- API Design
+- Distributed Systems
+- Machine Learning
+
+EDUCATION REQUIREMENTS:
+- Bachelor's Degree in Computer Science or related field
+- Master's Degree preferred
+
+EXPERIENCE:
+- 5-8 years of software engineering experience
+- 2+ years in leadership/mentoring role

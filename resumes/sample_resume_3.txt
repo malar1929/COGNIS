@@ -1,0 +1,31 @@
+
+CANDIDATE: Emily Rodriguez
+EMAIL: emily.r@email.com
+PHONE: +1-555-0789
+
+EXPERIENCE:
+Senior Product Manager | CloudSolutions Inc. | 2022-2024
+- Launched 3 successful SaaS products generating $10M+ revenue
+- Defined product strategy and roadmap for enterprise suite
+- Led cross-functional team of 25+ engineers and designers
+- Increased user engagement by 200% through feature innovation
+
+Product Manager | TechStartup Ventures | 2020-2022
+- Managed product lifecycle from ideation to launch
+- Conducted 200+ customer interviews for product validation
+- Increased customer retention by 40%
+
+EDUCATION:
+MBA | Harvard Business School | 2020
+B.S. Information Systems | UC Berkeley | 2016
+
+SKILLS:
+Product Strategy, Roadmapping, Agile, Scrum, User Research, Market Analysis, JIRA, Confluence, Figma, SQL, Python, Business Analytics
+
+CERTIFICATIONS:
+Certified Scrum Product Owner (CSPO)
+Product Management Certification
+
+ACHIEVEMENTS:
+- Product of the Year Award 2023
+- Grew user base from 10K to 150K in 18 months

@@ -1,0 +1,32 @@
+
+CANDIDATE: Sarah Johnson
+EMAIL: sarah.j@email.com
+PHONE: +1-555-0123
+
+EXPERIENCE:
+Senior Software Engineer | TechCorp Inc. | 2020-2024
+- Led development of microservices architecture handling 1M+ daily requests
+- Improved system performance by 45% through optimization
+- Mentored 5 junior developers and conducted code reviews
+- Implemented CI/CD pipeline reducing deployment time by 60%
+
+Software Developer | DataFlow Systems | 2018-2020
+- Built RESTful APIs using Python and Django
+- Reduced database query time by 30% through indexing
+- Collaborated with cross-functional teams on 15+ projects
+
+EDUCATION:
+M.S. Computer Science | Stanford University | 2018
+B.S. Software Engineering | MIT | 2016
+
+SKILLS:
+Python, Java, Docker, Kubernetes, AWS, PostgreSQL, MongoDB, Redis, CI/CD, Microservices, API Design, System Architecture, Leadership, Agile, Scrum
+
+CERTIFICATIONS:
+AWS Certified Solutions Architect
+Kubernetes Administrator Certification
+
+ACHIEVEMENTS:
+- Employee of the Year 2022
+- Published 3 technical papers on distributed systems
+- Speaker at TechConf 2023
