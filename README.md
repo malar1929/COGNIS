@@ -171,6 +171,17 @@ python main.py
 
 ---
 
+## Application Screenshots
+
+### Analysis Summary
+![Summary](screenshots/analysis_summary.png)
+
+### Candidate Ranking
+![Ranking](screenshots/ranking.png)
+
+### Candidate Details
+![Details](screenshots/candidate_details.png)
+
 ## 👨‍💻 Developed By
 
 **Selva Malar**  
